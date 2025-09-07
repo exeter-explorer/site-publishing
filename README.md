@@ -8,7 +8,7 @@
 2. Netlify (publish files)
    - [publishing-to-netlify](#publishing-to-netlify)
    - [how-to-upload-a-new-file](#how-to-upload-a-new-file)
-3.  (file / resource urls)
+3.  Get file / resource urls
    - [how-to-get-a-link-to-the-web-resource](#how-to-get-a-link-to-the-web-resource)
    - [how-to-get-a-link-to-the-start-resource-of-a-web-resource](#how-to-get-a-link-to-the-start-resource-of-a-web-resource)
 
