@@ -33,3 +33,11 @@ Find the project in the list that you want
 Name the project
 Scroll down and deploy
 
+## How to get a link to the web resource 
+In Github click on the link at the top that has mp4
+Netlify and find the project
+open the link with .app in a new window (it will say page not found)
+In Github go to the top where there is https and copy everything after main in / (forward slash) 
+Paste that in after the Netlify link 
+Press enter to bring up the page
+
