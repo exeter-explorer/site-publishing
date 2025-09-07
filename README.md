@@ -1,5 +1,16 @@
 # site-publishing
 
+## Table of Contents
+
+1. [#create-a-new-project](#create-a-new-project)
+2. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+3. [Usage Examples](#usage-examples)
+4. [Advanced Features](#advanced-features)
+5. [Troubleshooting](#troubleshooting)
+6. [Conclusion](#conclusion)
+
 ## Create a new project
 Go to exter-explorer (click on it at the top)   
 Click on Repositories  
