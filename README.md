@@ -17,5 +17,10 @@ Enter the name of the repository
 Click on Read me
 Press Commit changes
 Press Commit changes again (bottom)
+## How to upload a new file 
+Click on Add File 
+click Upload files
+Drag and drop file
+Scroll down to Commit changes 
 
 
