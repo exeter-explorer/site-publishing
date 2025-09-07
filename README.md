@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [#create-a-new-project](#create-a-new-project)
+1. [create-a-new-project](#create-a-new-project)
 2. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
