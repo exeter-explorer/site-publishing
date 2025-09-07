@@ -1,22 +1,13 @@
 # site-publishing
-Tell Pam what to do !
-
-These are the instructions for publishing sites (once we can find the instructions)
-
-Update repos in this Github
-
-Use Pam's work laptop.
-Log in to the publishing site: https://app.netlify.com/login/email
-Log in using EXE EXE, using email login option, with PSW on Pam's work laptop
 
 ## Create a new project
-Go to exter-explorer (click on it at the top) 
-Click on Repositories
-Click on New
-Enter the name of the repository 
-Click on Read me
-Press Commit changes
-Press Commit changes again (bottom)
+Go to exter-explorer (click on it at the top)   
+Click on Repositories  
+Click on New  
+Enter the name of the repository   
+Click on Read me  
+Press Commit changes  
+Press Commit changes again (bottom)  
 
 ## How to upload a new file 
 Click on Add File 
@@ -34,10 +25,16 @@ Name the project
 Scroll down and deploy
 
 ## How to get a link to the web resource 
-In Github click on the link at the top that has mp4
+In Github click on the project name and click on the file with name mp4
 Netlify and find the project
 open the link with .app in a new window (it will say page not found)
-In Github go to the top where there is https and copy everything after main in / (forward slash) 
+In Github go to the top where there is https and copy everything after main in / (forward slash) or in any folders
 Paste that in after the Netlify link 
 Press enter to bring up the page
+
+## How to get a link to the 'start' resource of a web resource
+(Needs rewording for Pammie)
+For more complicated items, like StoryBoards, or eLearning:
+You will need to find which file is used as the start up content for a video animation.
+E.g. Story.html
 
