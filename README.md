@@ -8,3 +8,5 @@ Update repos in this Github
 Use Pam's work laptop.
 Log in to the publishing site: https://app.netlify.com/login/email
 Log in using EXE EXE, using email login option, with PSW on Pam's work laptop
+
+## Create a new project
